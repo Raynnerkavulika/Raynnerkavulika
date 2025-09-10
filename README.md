@@ -6,6 +6,13 @@ I'm a passionate developer and tech enthusiast exploring the intersection of **n
 I enjoy building applications, breaking them (ethically), and learning how to make them stronger.  
 
 ---
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raynnerkavulika&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raynnerkavulika&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raynnerkavulika&theme=tokyonight)
+
 
 ## 🚀 About Me  
 - 🌐 Web Development: PHP, MySQL, HTML, CSS, JavaScript  
