@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Raynner Kavulika  
-### 👀 Profile Views
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Raynnerkavulika&color=green&style=for-the-badge)
 
 💻 **Software | 🌐 Web | 📡 Networking | 🔐 Cybersecurity**  
