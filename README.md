@@ -6,7 +6,7 @@ I'm a passionate developer and tech enthusiast exploring the intersection of **n
 I enjoy building applications, breaking them (ethically), and learning how to make them stronger.  
 
 ---
-### 📊 GitHub Stats
+###  GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raynnerkavulika&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raynnerkavulika&layout=compact&theme=tokyonight)
@@ -34,6 +34,18 @@ I enjoy building applications, breaking them (ethically), and learning how to ma
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+### 🔐 Cybersecurity Tools  
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-004D7F?style=for-the-badge&logo=nmap&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-0077C6?style=for-the-badge&logo=metasploit&logoColor=white)  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  
+![Parrot Security OS](https://img.shields.io/badge/Parrot_Security-15E0F8?style=for-the-badge&logo=parrotsecurity&logoColor=black)  
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)  
+![Hydra](https://img.shields.io/badge/Hydra-333333?style=for-the-badge&logo=security&logoColor=white)  
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-800000?style=for-the-badge&logo=security&logoColor=white)  
+
 ---
 
 ## 📚 Currently Learning  
@@ -41,6 +53,13 @@ I enjoy building applications, breaking them (ethically), and learning how to ma
 - Networking fundamentals & simulations (Cisco Packet Tracer, Linux)  
 - Offensive Security & Pentesting skills  
 - System programming in C  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-4285F4?style=for-the-badge&logo=cloudflare&logoColor=white)  
+
 
 ---
 
