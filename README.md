@@ -8,7 +8,16 @@ I enjoy building applications, breaking them (ethically), and learning how to ma
 ---
 
 ## 🚀 About Me  
-### 🛠️ Languages & Tools
+- 🌐 Web Development: PHP, MySQL, HTML, CSS, JavaScript  
+- 💻 Software Development: C, C++, Python (learning & building projects)  
+- 📡 Networking: TCP/IP, Linux networking, protocols & systems  
+- 🔐 Cybersecurity: Penetration testing, Red Teaming, exploit development (learning phase)  
+- 🎯 Goal: Build secure, scalable, and impactful tech solutions
+
+---
+
+## 🛠️ Tech Stack  
+  ### 🛠️ Languages & Tools
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,15 +29,6 @@ I enjoy building applications, breaking them (ethically), and learning how to ma
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages & Tools:**  
-- PHP, MySQL, JavaScript, HTML5, CSS3  
-- C, C++, Python  
-- Linux, Git/GitHub  
-- Wireshark, Nmap, Burp Suite, Metasploit (cybersecurity)  
-
----
-
 ## 📚 Currently Learning  
 - Advanced PHP & secure backend development  
 - Networking fundamentals & simulations (Cisco Packet Tracer, Linux)  
@@ -37,11 +37,15 @@ I enjoy building applications, breaking them (ethically), and learning how to ma
 
 ---
 
-## 🔗 Connect with Me  
-- 🌍 Portfolio/Website: https://kavulikasportfolio.lovestoblog.com/?  
-- 📧 Email: kavulikar@gmail.com  
-- 💼 LinkedIn:   
-- 🐦 Twitter/X:  
+### 🔗 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/yourusername)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+  
 ---
 
-✨ *"Turning ideas into code, securing them, and pushing technology forward."*  
+✨ *"Turning ideas into code, securing them, and pushing technology forward."*
+
+![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
