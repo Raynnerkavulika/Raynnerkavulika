@@ -76,6 +76,7 @@ I enjoy building applications, breaking them (ethically), and learning how to ma
   
 ---
 
-✨ *"Turning ideas into code, securing them, and pushing technology forward."*
+✨ *Ideas don't come out fully formed. They only become clear as you work on them. You just have to get started*
+                                                                                 ~Mark Zuckerberg.
 
 ![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
